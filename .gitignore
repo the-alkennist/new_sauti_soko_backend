@@ -1,0 +1,7 @@
+
+/docker-compose.prod.yml
+/docker-compose.yml
+/ecommerce.db
+
+/env
+/your_database_name.db
